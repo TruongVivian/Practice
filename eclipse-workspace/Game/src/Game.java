@@ -25,7 +25,7 @@ public static void main(String[] args)
 		System.exit(0);
 	}
 	
-	if (user ==0 ) // User choose rocj
+	if (user ==0 ) // User choose rock
 	{
 		if (computer==1 )
 		{ 
